@@ -1,0 +1,5 @@
+Let op, dit is voor de DS auto’s niet voor Citroën
+
+windows https://map-update.dspp.awsmpsa.com/installer.exe
+mac https://map-update.dspp.awsmpsa.com/installer.dmg
+
